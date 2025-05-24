@@ -1,21 +1,21 @@
-## 📅 Día 4: Formularios
+# 📅 Día 4: Formularios
 
-- Crea un formulario de contacto con campos: nombre, email, mensaje.
+## ✅ Actividades Realizadas:
 
-- Agrega validación HTML básica: required, minlength, type="email".
+- Creé un formulario de contacto con campos: nombre, email y mensaje.
+- Añadí validaciones HTML: `required`, `minlength`, `type="email"`.
+- Agregué un campo de contraseña con `placeholder`.
+- Incluí un menú desplegable `<select>` con 3 opciones.
+- Añadí casillas de verificación y botones de radio.
+- Incorporé un botón de envío y otro de reinicio.
+- Estilicé los inputs con estilo en línea: bordes, colores y márgenes.
+- Agrupé los campos usando `<fieldset>` y `<legend>`.
+- Asocié correctamente etiquetas `<label>` a cada campo.
+- Organicé todo el formulario dentro de una estructura semántica `<section>`.
 
-- Agrega un campo de contraseña con atributo placeholder.
+## 📌 Aprendizajes:
 
-- Agrega un menú desplegable ``<select>`` con 3 opciones.
-
-- Agrega casillas de verificación y botones de radio.
-
-- Agrega un botón de envío y uno de reinicio.
-
-- Estiliza los inputs usando style en línea: bordes, colores, márgenes.
-
-- Agrupa campos usando ``<fieldset>`` y ``<legend>``.
-
-- Usa etiquetas ``<label>`` correctamente asociadas a cada campo.
-
-- Crea una estructura semántica para incluir el formulario dentro de un ``<section>``.
+- Creación y validación básica de formularios.
+- Uso de campos de entrada variados.
+- Agrupación y estilizado simple.
+- Buenas prácticas semánticas para formularios.

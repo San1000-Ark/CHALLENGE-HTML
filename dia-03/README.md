@@ -1,21 +1,21 @@
-## 📅 Día 3: Multimedia
+# 📅 Día 3: Multimedia
 
-- Agrega un video local o de YouTube usando ``<video>`` o ``<iframe>``.
+## ✅ Actividades Realizadas:
 
-- Agrega un audio (música o efecto de sonido) con ``<audio>`` y controles.
+- Añadí un video desde YouTube usando `<iframe>`.
+- Inserté un audio con `<audio>` y controles.
+- Agregué 3 imágenes con distintas resoluciones y textos alternativos.
+- Coloqué un GIF animado con `<img>`.
+- Creé un mapa de imagen usando `<map>` y `<area>` con 2 zonas interactivas.
+- Incorporé enlaces con distintos atributos: `target="_blank"`, `download`, `title`, etc.
+- Simulé una barra de menú horizontal usando CSS en línea.
+- Cambié el color de fondo de secciones con estilo en línea.
+- Inserté íconos de redes sociales con **Font Awesome**.
+- Creé una galería de imágenes usando `<div>` y columnas.
 
-- Agrega al menos 3 imágenes con distintas resoluciones y textos alternativos.
+## 📌 Aprendizajes:
 
-- Inserta un GIF animado usando la etiqueta ``<img>``.
-
-- Crea un mapa de imagen usando ``<map>`` y ``<area>`` con al menos 2 áreas interactivas.
-
-- Agrega enlaces con distintos atributos: target="_blank", download, title, etc.
-
-- Crea una navegación horizontal simulando una barra de menú con CSS básico (inline).
-
-- Usa style en línea para cambiar color de fondo de varias secciones.
-
-- Agrega íconos de redes sociales usando Font Awesome.
-
-- Crea una galería de imágenes simple con ``<div>`` y estilo de columnas.
+- Integración de multimedia: video, audio, GIF.
+- Mapa de imágenes interactivo.
+- Uso de enlaces avanzados y barra de navegación simple.
+- Galería de imágenes y personalización básica de estilos.
